@@ -20,7 +20,7 @@ class App extends Component {
         </header>
         <image className='Welcome'>Welcome Photo</image>
         <nav className='SideNav'></nav>
-        <products className='Products'></products>
+        <products className='Products'>Products</products>
       </div>
     );
   }
